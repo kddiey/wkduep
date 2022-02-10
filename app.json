@@ -1,11 +1,11 @@
 {
-    "name": "v2ray-heroku",
+    "name": "jehuir",
     "description": "deploy v2ray to heroku",
     "keywords": ["v2ray"],
     "env": {
         "UUID": {
             "description": "v2ray UUID",
-            "value": "c95ef1d4-f3ac-4586-96e9-234a37dda068"        
+            "value": "b838224e-1db8-4e4f-90bd-99a08cacec72"        
         },
         "PROTOCOL": {
             "description": "v2ray protocol, vmess or vless",
@@ -13,6 +13,6 @@
         }
     },
     "website": "https://111111.online",
-    "repository": "https://github.com/yeahwu/kinto",
+    "repository": "https://github.com/kddiey/wkduep",
     "stack": "container"
 }
